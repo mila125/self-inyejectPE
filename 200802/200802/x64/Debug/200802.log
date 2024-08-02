@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\6lady\source\repos\200802\200802\main.cpp(82,37): warning C4267: '=': conversión de 'size_t' a 'DWORD'; posible pérdida de datos
+C:\Users\6lady\source\repos\200802\200802\main.cpp(84,34): warning C4267: '=': conversión de 'size_t' a 'DWORD'; posible pérdida de datos
+C:\Users\6lady\source\repos\200802\200802\main.cpp(85,37): warning C4267: '=': conversión de 'size_t' a 'DWORD'; posible pérdida de datos
+  200802.vcxproj -> C:\Users\6lady\source\repos\200802\200802\x64\Debug\200802.exe
