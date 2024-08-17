@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\6lady\source\repos\160804\160804\main.cpp(108,108): warning C4319: '~': extensión de cero de tipo 'DWORD' a un tipo 'size_t' de mayor tamaño
+C:\Users\6lady\source\repos\160804\160804\main.cpp(113,90): warning C4319: '~': extensión de cero de tipo 'DWORD' a un tipo 'size_t' de mayor tamaño
+C:\Users\6lady\source\repos\160804\160804\main.cpp(115,84): warning C4319: '~': extensión de cero de tipo 'DWORD' a un tipo 'size_t' de mayor tamaño
+  160804.vcxproj -> C:\Users\6lady\source\repos\160804\160804\x64\Debug\160804.exe
